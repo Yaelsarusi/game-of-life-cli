@@ -29,7 +29,9 @@ the shell so as to create an animation.
 This is the last output of the script for some 7x3 board. "*" signifies living cells.
 
 bash-3.2$ python gameoflife.py ~/initial_state.txt 1000
+
 | *** **|
 | **  * |
 |       |
+
 bash-3.2$
