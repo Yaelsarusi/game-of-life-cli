@@ -31,7 +31,9 @@ This is the last output of the script for some 7x3 board. "*" signifies living c
 bash-3.2$ python gameoflife.py ~/initial_state.txt 1000
 
 | *** **|
+
 | **  * |
+
 |       |
 
 bash-3.2$
